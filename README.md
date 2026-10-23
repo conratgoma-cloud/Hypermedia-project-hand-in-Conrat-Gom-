@@ -2,7 +2,6 @@
 
 Single-page website presenting my curriculum vitae: profile, work experience, education, skills and languages. Project for the Hypermedia course (Part 1).
 
-🔗 Live page: https://YOUR-USERNAME.github.io/REPOSITORY-NAME/
 🎨 Figma project: https://www.figma.com/design/xh6OdX3ux36qNzDzaABGDG/CV-Web-page-desing?node-id=0-1&t=dgySNmwg4CK7rmlT-1 
 1. Project Analysis
    

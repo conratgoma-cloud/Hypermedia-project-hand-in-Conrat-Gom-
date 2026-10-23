@@ -12,15 +12,6 @@ The user profile of the website is that of Marc Lòpez Olmo himself, the subject
 
 Marc Lòpez Olmo – Junior graphic designer and university student (Vallgorguina, Catalonia)
 
-	
-Profile	Creative graphic designer passionate about the visual world, with an interest in digital design, composition and visual communication. He combines his job as a junior designer at Estudi Creatiu (since March 2026) with freelance projects (since January 2023).
-Education	Social Sciences Baccalaureate at IES Reguissol (2022-2024) and a Degree in Video Game Design and Development at the University of Girona (from 2026).
-Skills	Graphic design (posters, logos, visual identities, typography and color), HTML and CSS, JavaScript.
-Languages	Native Catalan and Spanish, intermediate English.
-Goal	To make himself known, find new job and collaboration opportunities, and demonstrate his visual judgment through the website itself.
-What he needs from the website	A clear, professional introduction that reflects his style, shows his experience in chronological order and makes contacting him easy.
-Frustrations	Generic CVs that don't set the candidate apart, overloaded templates with too many elements that hide the content, and contact details that are hard to find.
-
 Target visitor. The people who will visit the site are recruiters, design studio managers and potential clients. They review many applications in little time and want to know in under a minute who Marc is, what he can do and how to contact him.
 
 Design takeaway: since Marc is a graphic designer, the page is his first work sample. It must be clear, tidy, fast and scannable at a glance, with a clean style that shows visual judgment and with the contact details always visible.

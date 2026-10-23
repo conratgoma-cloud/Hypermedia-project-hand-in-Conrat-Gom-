@@ -2,39 +2,46 @@
 
 Single-page website presenting my curriculum vitae: profile, work experience, education, skills and languages. Project for the Hypermedia course (Part 1).
 
-🎨 Figma project: https://www.figma.com/design/xh6OdX3ux36qNzDzaABGDG/CV-Web-page-desing?node-id=0-1&t=dgySNmwg4CK7rmlT-1 
-1. Project Analysis
-   
-1.1 User Profile (User Persona)
+**🎨 Figma project:** https://www.figma.com/design/xh6OdX3ux36qNzDzaABGDG/CV-Web-page-desing?node-id=0-1&t=dgySNmwg4CK7rmlT-1 
 
-Marc Lòpez Olmo, 38 – Talent Acquisition Manager (HR) at a web and video game development studio
+**1. Project Analysis**
+   
+**1.1 User Profile (User Persona)**
+
+The user profile of the website is that of Marc Lòpez Olmo himself, the subject of the CV, since the page is designed around his professional needs and goals.
+
+Marc Lòpez Olmo – Junior graphic designer and university student (Vallgorguina, Catalonia)
 
 	
-Context	Works at a mid-sized company hiring juniors and interns. Every week she reviews between 30 and 50 applications, mostly from her office computer and sometimes from her phone.
-Goal	Decide in under a minute whether a candidate deserves an interview.
-What she expects to find	Who the candidate is, what they have done, which technologies they know, where they studied and how to contact them, without having to search for it.
-Frustrations	Cluttered websites, animations that slow down loading, information hidden behind menus, and contact details that are hard to find.
-Digital skills	High. She is used to LinkedIn and online portfolios, but doesn't want to waste time navigating.
+Profile	Creative graphic designer passionate about the visual world, with an interest in digital design, composition and visual communication. He combines his job as a junior designer at Estudi Creatiu (since March 2026) with freelance projects (since January 2023).
+Education	Social Sciences Baccalaureate at IES Reguissol (2022-2024) and a Degree in Video Game Design and Development at the University of Girona (from 2026).
+Skills	Graphic design (posters, logos, visual identities, typography and color), HTML and CSS, JavaScript.
+Languages	Native Catalan and Spanish, intermediate English.
+Goal	To make himself known, find new job and collaboration opportunities, and demonstrate his visual judgment through the website itself.
+What he needs from the website	A clear, professional introduction that reflects his style, shows his experience in chronological order and makes contacting him easy.
+Frustrations	Generic CVs that don't set the candidate apart, overloaded templates with too many elements that hide the content, and contact details that are hard to find.
 
-Design takeaway: the page must be clear, scannable at a glance, fast, and always show the contact details.
+Target visitor. The people who will visit the site are recruiters, design studio managers and potential clients. They review many applications in little time and want to know in under a minute who Marc is, what he can do and how to contact him.
+
+Design takeaway: since Marc is a graphic designer, the page is his first work sample. It must be clear, tidy, fast and scannable at a glance, with a clean style that shows visual judgment and with the contact details always visible.
 
 **1.2 Information Architecture**
 
 Since this is a static single-page site, the information architecture consists of distributing the CV sections along a single vertical scroll split into two columns, following the reading logic of a traditional CV.
 
-Left column (36%) – quick-reference information. It contains the photo and three short blocks: Contact (phone, email and location, all as actionable links), Education (degrees with title and years) and Skills (HTML and CSS, JavaScript and Design). These are short pieces of data that a recruiter looks for almost automatically, so they are grouped in a stable, high-contrast sidebar.
+Left column (36%) – quick-reference information. It contains the photo and three short blocks: Contact (phone, email and location, all as actionable links), Education (University of Girona and IES Reguissol, with degree and years) and Skills (HTML and CSS, JavaScript and Design). These are short pieces of data that a recruiter looks for almost automatically, so they are grouped in a stable, high-contrast sidebar.
 
-Right column (64%) – narrative content. It starts with the header (name and job title), which answers the user's first question: "who is this?". It is followed, in this order, by:
+Right column (64%) – narrative content. It starts with the header (name and job title "Graphic Designer"), which answers the visitor's first question: "who is this?". It is followed, in this order, by:
 
-Personal profile: a short paragraph summarizing motivation and professional approach.
-Work experience: three jobs in reverse chronological order (most recent first). Each one shows job title, company, dates and a brief description.
+Personal profile: a short paragraph summarizing Marc's creative approach and abilities (developing original ideas, creating visual identities and adapting designs).
+Work experience: three jobs in reverse chronological order (most recent first): junior graphic designer at Estudi Creatiu, freelance graphic designer, and digital design intern at Estudi de Disseny. Each one shows job title, company, dates and a brief description of the tasks.
 Languages: a list with the level of each language, placed last because it is complementary information.
 
 The sections on the right share the same structure (a black circle with the title and a vertical timeline line), so the reader learns the pattern in the first section and then only has to focus on the content. The HTML order follows the visual order, which also benefits accessibility and screen-reader navigation.
 
 **1.3 Visual Design**
 
-Color palette. I chose a strictly monochrome palette: black, white and very dark greys. This gives the page a professional, timeless look, maximizes text contrast (better readability and accessibility) and keeps color from distracting from the content. The black of the left column, the job-title bar and the section circles creates a visual thread connecting the whole page.
+Color palette. I chose a strictly monochrome palette: black, white and very dark greys. This gives the page a professional, timeless look, maximizes text contrast (better readability and accessibility) and keeps color from distracting from the content. For a graphic designer, a neutral base is also a suitable canvas so that, in the future, his projects and the color of his work stand out. The black of the left column, the job-title bar and the section circles creates a visual thread connecting the whole page.
 
 Typography. I use two Google Fonts families. Archivo (regular and bold) is used only for the name, in uppercase with a strong weight contrast between "MARC" and "LÒPEZ OLMO", to give it personality and hierarchy. Raleway is used for all the remaining text: it is a clean, geometric and highly readable typeface, and its range of weights (400, 500, 600) establishes hierarchy between headings, job titles and descriptions without adding more fonts. Companies are set in bold italics to distinguish them from job titles, which are in uppercase.
 
